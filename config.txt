@@ -1,0 +1,10 @@
+subdomain_mode:
+2
+data_savepath:
+./workfloder/
+log_save:
+true
+log_savepath:
+log.txt
+thread_number:
+5
